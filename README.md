@@ -1,13 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Contact us [ K-avin ](https://github.com/K-avin).
 
 
-# React Router V5 multiple layouts
-
-
-If you want to test the project you can go to this  [![Edit upbeat-microservice-bgliv](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/upbeat-microservice-bgliv?fontsize=14&hidenavigation=1&theme=dark)  or clone the repository
+# React Router multiple layouts
 
 ```bash
-  yarn or npm install
+  npm install
 ```
 
 with this router structure the re-rendering that is caused when changing routes is avoided
